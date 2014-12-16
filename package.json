@@ -1,0 +1,14 @@
+{
+  "name": "Step6",
+  "version": "0.0.0",
+  "description": "Step6",
+  "main": "server.js",
+  "author": {
+    "name": "andreasb",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.10.6",
+    "socket.io": "^1.2.1"
+  }
+}
